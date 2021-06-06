@@ -1,0 +1,17 @@
+{
+  "@@locale": "ja",
+  "ok": "OK",
+  "cancel": "CANCEL",
+  "home": "ホーム",
+  "signIn": "ログイン",
+  "googleSignIn": "Google サインイン",
+  "googleSignOut": "サインアウト",
+  "detail": "詳細",
+  "error": "エラー: これはデモです。",
+  "fetchFailed": "データの取得に失敗しました",
+  "noResult": "データがありません!",
+  "noTitle":  "No Title",
+  "displayName": "Display Name",
+  "email": "メール",
+  "uid": "ユーザID"
+}
